@@ -1,0 +1,17 @@
+{
+  "product": "travel4_u_maing01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "travel4_u_maing01-hi": {},
+  "travel4_u_maing01-server": {}
+}
